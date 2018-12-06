@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2006-05-28T21:32:29">
+<portfolio>
+<id>13</id>
+<title>Spectrum Graphic Arts Webcast</title>
+<media>Photoshop, ASP</media>
+<output>Website with live streaming video.</output>
+<description>The design was done by myself. I also programmed the backend for a moderated online question and answer session in conjunction with a live webcast.</description>
+<media_url>mainSpectrum.jpg</media_url>
+<media_category>2</media_category>
+<thumb_url>spectrum-webcast.png</thumb_url>
+<year>2001</year>
+</portfolio>
+<portfolio>
+<id>14</id>
+<title>DuPont Performance Coatings</title>
+<media>Photoshop, Powerpoint, Quark</media>
+<output>Powerpoint template, meeting design.</output>
+<description>I was responsible for presentation design, meeting design, collateral design for this national meeting of selling agents.</description>
+<media_url>mainJobberMtg.jpg</media_url>
+<media_category>2</media_category>
+<thumb_url>dupont-champions-2005-_thum.png</thumb_url>
+<year>2005</year>
+</portfolio>
+<portfolio>
+<id>15</id>
+<title>Temple Podiatric School</title>
+<media>Flash, Photoshop, XML</media>
+<output>CD-ROM with Video.</output>
+<description>This was a challenging project that attempted to motivate students to take a challenging career path in an urban setting. I programmed the flash application utilizing an xml backend.</description>
+<media_url>mainTUSPM.jpg</media_url>
+<media_category>2</media_category>
+<thumb_url>MainGUI_thumb.png</thumb_url>
+<year>2004</year>
+</portfolio>
+<portfolio>
+<id>16</id>
+<title>DuPont Marketing</title>
+<media>Photoshop, ASP.NET</media>
+<output>Webcast / Video-on-Demand.</output>
+<description>This live webcast was designed by myself. The final application was a video on demand synchronized with slides.</description>
+<media_url>mainDupontWebcasts.jpg</media_url>
+<media_category>2</media_category>
+<thumb_url>DuPont-Marketing-Webcast_th.png</thumb_url>
+<year>2003</year>
+</portfolio>
+<portfolio>
+<id>17</id>
+<title>DuPont STOP Safety</title>
+<media>Flash, Photoshop</media>
+<output>CD-ROM with .pdf and Video.</output>
+<description>This cd-rom was a sales tool that incorporated video, and multiple internal documents. This was developed with Flash and utilized an xml data interface.</description>
+<media_url>mainStop.jpg</media_url>
+<media_category>2</media_category>
+<thumb_url>1-Intro.png</thumb_url>
+<year>2004</year>
+</portfolio>
+<portfolio>
+<id>18</id>
+<title>DuPont Registration Website</title>
+<media>Photoshop, ASP.NET</media>
+<output>Registration website design</output>
+<description>This was an interface for an online meeting registration site developed in .asp. The site featured an individualized portal area with custom agenda builder with login, and admin sections.</description>
+<media_url>mainJobberReg.jpg</media_url>
+<media_category>2</media_category>
+<thumb_url>DPC-Registration_website-th.png</thumb_url>
+<year>2005</year>
+</portfolio>
+<portfolio>
+<id>19</id>
+<title>SAP Webcast</title>
+<media>Photoshop, ASP.NET</media>
+<output>Video on demand website.</output>
+<description>This was a feature broadcast with the CEO and various media interviews. I was responsible for the graphic design, and web page implementation.</description>
+<media_url>mainPresentation.swf</media_url>
+<media_category>2</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>2001-2006</year>
+</portfolio>
+<portfolio>
+<id>20</id>
+<title>DuPont Martin Luther King Webcast</title>
+<media>Photoshop, ASP.NET</media>
+<output>Video on demand website.</output>
+<description>This is a key event in DuPont&apos;s civic agenda, and the design needed to be accesible and easy to navigate. I have designed this for the last 3 years.</description>
+<media_url>mainMLK.jpg</media_url>
+<media_category>2</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>2006</year>
+</portfolio>
+<portfolio>
+<id>21</id>
+<title>Autodesk</title>
+<media>Flash</media>
+<output>CD-ROM with Video</output>
+<description>This design was just extending already existing corporate identity. The flash programming and video encoding were done by myself.</description>
+<media_url>mainAutodesk.jpg</media_url>
+<media_category>2</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>2006</year>
+</portfolio>
+<portfolio>
+<id>22</id>
+<title>Got Soul</title>
+<media>Pencil</media>
+<output>18&quot;x24&quot; Illustration Board</output>
+<description>This was an illustration in pencil. It fused together 3 pre-existing photographs in a tribute to Miles Davis and John Coltrane.</description>
+<media_url>mainMiles.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1992</year>
+</portfolio>
+<portfolio>
+<id>23</id>
+<title>Loppybogymi &apos;Tup&apos; Album Cover</title>
+<media>Acrylic Paint</media>
+<output>Canvas</output>
+<description>This was painted as a portrait for a band, and subsequently used in their first cd. I layed out the cd on a Mac at Kinko&apos;s. It was my first offset printed work.</description>
+<media_url>mainTup.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1992</year>
+</portfolio>
+<portfolio>
+<id>24</id>
+<title>Loppybogymi CMJ Album Cover</title>
+<media>Photoshop, Painter, Wacom</media>
+<output>CD Cover Artwrok</output>
+<description>This originated as a sketch. It was painted as a 3&apos; x 4&apos; canvas. It was resurrected as inspiration for a new Wacom tablet. This was it&apos;s best incarnation.</description>
+<media_url>mainCMJ.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1996</year>
+</portfolio>
+<portfolio>
+<id>25</id>
+<title>Nude reclining.</title>
+<media>Acrylic Paint</media>
+<output>Canvas 3&apos;x2&apos;</output>
+<description>This was painted as a commission from a friend</description>
+<media_url>mainladyacrylic.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1991</year>
+</portfolio>
+<portfolio>
+<id>26</id>
+<title>Allison&apos;s Tattoo</title>
+<media>Acrylic Paint</media>
+<output>Canvas</output>
+<description>This originated as a sketch. It was purchased as a tattoo and inked. The tatoo-ee subsequently commisioned a painting extending the concept. This is that work.</description>
+<media_url>mainAllisonTat.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1992</year>
+</portfolio>
+<portfolio>
+<id>27</id>
+<title>Octopus Man</title>
+<media>Acrylic Paint</media>
+<output>Canvas</output>
+<description>This is random brain-babbling plucked from a sketch-book. It later re-emerged as artwork for the Loppy Octopus, which I, designed as well.</description>
+<media_url>mainOctoMan.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1993</year>
+</portfolio>
+<portfolio>
+<id>28</id>
+<title>Self Portrait</title>
+<media>Acrylic Paint</media>
+<output>Canvas</output>
+<description>This is a large 3&apos;x4&apos; painting that was born a sketch. It utilizes a lot of dripping and splatter for the background. This is not what I look like from the outside either.</description>
+<media_url>mainSelfPortrait.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1994</year>
+</portfolio>
+<portfolio>
+<id>29</id>
+<title>Paddy-Cake-Baker-Mann</title>
+<media>Wacom Tablet, Painter</media>
+<output>Digital Print</output>
+<description>This was one of my first satisfying Painter pieces , it originated as a sketch. Somehow charmed with it, I felt compelled to digitize. I had no ultimate destination in mind.</description>
+<media_url>mainBAker.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1999</year>
+</portfolio>
+<portfolio>
+<id>30</id>
+<title>Anti-Smoker</title>
+<media>Wacom Tablet, Photoshop</media>
+<output>Digital Print</output>
+<description>This was another sketch that I felt the need to explore further in the digital realm. A purely artistic effort, it has not been used in any commercial expression.</description>
+<media_url>mainSmoker.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>2000</year>
+</portfolio>
+<portfolio>
+<id>31</id>
+<title>T-Bones Portrait</title>
+<media>Acrylic Paint</media>
+<output>Canvas</output>
+<description>This was a portrait of my best friend&apos;s dog. The dog travelled around with a band for 3 years in a van, and was a true inspiration and friend.</description>
+<media_url>mainTBone.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1994</year>
+</portfolio>
+<portfolio>
+<id>32</id>
+<title>Drown</title>
+<media>Acrylic Paint</media>
+<output>Canvas</output>
+<description>This was commissioned for the song/album titled &apos;drown&apos;. I was not initially that happy with the end result, but it has grown on me, and inspires me to return to painting.</description>
+<media_url>mainMayoFarm.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1993</year>
+</portfolio>
+<portfolio>
+<id>33</id>
+<title>Smocrobes</title>
+<media>Collage, Photoshop</media>
+<output>CD Artwork</output>
+<description>This was a collage done in high school. It languished in a sketchbook and was resurrected to serve as an interior spread for a 4 panel cd.</description>
+<media_url>mainCollage.jpg</media_url>
+<media_category>3</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1988</year>
+</portfolio>
+<portfolio>
+<id>34</id>
+<title>Savalas Brothers - Pimp Knuckle</title>
+<media>Photoshop, Quark</media>
+<output>Full Length LP</output>
+<description>The large LP format enabled me to create a detailed collage in Photoshop with several subtle T-bone logo references expressed in the details.</description>
+<media_url>mainPimpknuckle.swf</media_url>
+<media_category>1</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>2001</year>
+</portfolio>
+<portfolio>
+<id>36</id>
+<title>FMP Media Solutions - Demo</title>
+<media>Photoshop, Illustrator, Flash</media>
+<output>Demo website.</output>
+<description>This was a multimedia demo integrating video, flash with an xml backend. %3Ca href=%22 http://www.fmpmedia.com/demo %22 target=%22_blank%22 %3EFMP Media Demo%3C/a%3E</description>
+<media_url>mainFMPDemo.jpg</media_url>
+<media_category>2</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>2005</year>
+</portfolio>
+<portfolio>
+<id>35</id>
+<title>Afroman - Sell Your Dope</title>
+<media>Photoshop, Quark</media>
+<output>2 Panel CD</output>
+<description>Afroman&apos;s first CD release by T-Bones Records. This was artist driven concept art for this rapper.</description>
+<media_url>mainSellYoDope.jpg</media_url>
+<media_category>1</media_category>
+<thumb_url>thumb.png</thumb_url>
+<year>1998</year>
+</portfolio>
+<portfolio>
+<id>1</id>
+<title>Rogue Fugu</title>
+<media>Photoshop, Quark</media>
+<output>6 Panel Digipak CD</output>
+<description>This design was pushed by the sushi concept of the title. The packaging was on matte digipak and reflected the elegant and smooth beats contained therewithin.</description>
+<media_url>mainFugu.jpg</media_url>
+<media_category>1</media_category>
+<thumb_url>thumbFugu.png</thumb_url>
+<year>2006</year>
+</portfolio>
+<portfolio>
+<id>2</id>
+<title>Loppy Octopus</title>
+<media>Photoshop, Illustrator, Quark</media>
+<output>4 Panel CD</output>
+<description>This was executed with a 2 color offset print, utilizing flake gold and black.</description>
+<media_url>mainOctopus.swf</media_url>
+<media_category>1</media_category>
+<thumb_url>thumbOctopus.png</thumb_url>
+<year>2000</year>
+</portfolio>
+<portfolio>
+<id>3</id>
+<title>WNT</title>
+<media>Photoshop, Pencil, 3-D Max</media>
+<output>4 Panel CD</output>
+<description>A 3-D cube was generated using some trickery in the shadow to read right. Personal drawings were scanned and treated in Photoshop for the ethereal elements..</description>
+<media_url>mainWNT.jpg</media_url>
+<media_category>1</media_category>
+<thumb_url>thumbWNT.png</thumb_url>
+<year>1997</year>
+</portfolio>
+<portfolio>
+<id>4</id>
+<title>Dukes of Jazzard</title>
+<media>Photoshop, Quark</media>
+<output>4 Panel CD</output>
+<description>This was a CD layout with supporting posters, one-sheet, and internet advertising.</description>
+<media_url>mainDukes.jpg</media_url>
+<media_category>1</media_category>
+<thumb_url>thumbDukes.png</thumb_url>
+<year>1999</year>
+</portfolio>
+<portfolio>
+<id>5</id>
+<title>War of The Worlds Remix</title>
+<media>Photoshop, 3-D Max, Quark</media>
+<output>4 Panel CD</output>
+<description>The world, vinyl record, and cd&apos;s were rendered in 3-D Studio Max, the composition was taken into Photoshop, and enhanced.</description>
+<media_url>mainWOW.swf</media_url>
+<media_category>1</media_category>
+<thumb_url>thumbWOW.png</thumb_url>
+<year>1999</year>
+</portfolio>
+<portfolio>
+<id>6</id>
+<title>The Sexual Honky</title>
+<media>Photoshop, Quark</media>
+<output>4 Panel CD</output>
+<description>A concept piece, re-utilizing various imagery from the 50s batchelor pad era. This also had CD, t-shirts, and internet advertising in conjunction with the release.</description>
+<media_url>mainHonky.jpg</media_url>
+<media_category>1</media_category>
+<thumb_url>thumbHonky.png</thumb_url>
+<year>1998</year>
+</portfolio>
+<portfolio>
+<id>7</id>
+<title>Afroman - Because I Got High</title>
+<media>Photoshop, Quark</media>
+<output>4 Panel CD</output>
+<description>Artwork for this breakout album tried to convey the chilled out environment that inspired Afroman when he relocated to the Mississippi Coast from L.A.</description>
+<media_url>mainbcuz.jpg</media_url>
+<media_category>1</media_category>
+<thumb_url>thumbAfroman.png</thumb_url>
+<year>1999</year>
+</portfolio>
+<portfolio>
+<id>8</id>
+<title>Savalas Brothers - Tough Guy</title>
+<media>Photoshop, Painter</media>
+<output>4 Panel Digipak CD</output>
+<description>The cover art is a portrait of the Savalas Brothers created in Painter. Other pieces to this included online advertising and print collateral.</description>
+<media_url>mainToughGuy.jpg</media_url>
+<media_category>1</media_category>
+<thumb_url>thumbToughGuy.png</thumb_url>
+<year>2001</year>
+</portfolio>
+<portfolio>
+<id>9</id>
+<title>Cookout - Ear Fashion</title>
+<media>Photoshop, Quark</media>
+<output>4 Panel Digipak CD</output>
+<description>This progressive band wanted a visual style that represented the eclectic array of instruments and music they represented. The cover art was collaged from various sources.</description>
+<media_url>mainEarFashion.jpg</media_url>
+<media_category>1</media_category>
+<thumb_url>thumbCookout.png</thumb_url>
+<year>2000</year>
+</portfolio>
+<portfolio>
+<id>10</id>
+<title>Schvilkus</title>
+<media>Photoshop, Quark</media>
+<output>4 Panel CD</output>
+<description>The main element was a sketchbook drawing, scanned and then background was added in Photoshop.</description>
+<media_url>mainSchvilkus.jpg</media_url>
+<media_category>1</media_category>
+<thumb_url>thumbSchvilkus.png</thumb_url>
+<year>1995</year>
+</portfolio>
+<portfolio>
+<id>11</id>
+<title>T-Bones Records Website</title>
+<media>Flash, Photoshop, XML</media>
+<output>Website with streaming audio.</output>
+<description>This is an ongoing artistic collaboration with my best friend who produces the music. %3Ca href=%22 http://www.tbonesrecords.com %22 target=%22_blank%22 %3Ewww.tbonesrecords.com%3C/a%3E</description>
+<media_url>mainTbones.swf</media_url>
+<media_category>2</media_category>
+<thumb_url>tbonesrecordsdotcom_1_thumb.png</thumb_url>
+<year>1995-2006</year>
+</portfolio>
+<portfolio>
+<id>12</id>
+<title>DuPont Marketing and Sales Summit</title>
+<media>Flash, Photoshop</media>
+<output>CD-ROM with Video</output>
+<description>This project was repurposing of a meeting that had been shot. It was organized in a way for high-level executives to get internal messaging out via cd-rom in order to cut down on travel.</description>
+<media_url>mainDupontMSS.jpg</media_url>
+<media_category>2</media_category>
+<thumb_url>marketingsales-summit1.png</thumb_url>
+<year>2005</year>
+</portfolio>
+</dataroot>
